@@ -1,0 +1,105 @@
+[submodule "aircompany"]
+	path = aircompany
+	url = https://github.com/VeronikaTa/aircompany.git
+[submodule "transpose_matrix"]
+	path = transpose_matrix
+	url = https://github.com/VeronikaTa/transpose_matrix.git
+[submodule "sum_of_previous"]
+	path = sum_of_previous
+	url = https://github.com/VeronikaTa/sum_of_previous.git
+[submodule "sum_of_even_numbers"]
+	path = sum_of_even_numbers
+	url = https://github.com/VeronikaTa/sum_of_even_numbers.git
+[submodule "quadratic_equation"]
+	path = quadratic_equation
+	url = https://github.com/VeronikaTa/quadratic_equation.git
+[submodule "pizza_split"]
+	path = pizza_split
+	url = https://github.com/VeronikaTa/pizza_split.git
+[submodule "multiply-matrices"]
+	path = multiply-matrices
+	url = https://github.com/VeronikaTa/multiply-matrices.git
+[submodule "meetstrangers"]
+	path = meetstrangers
+	url = https://github.com/VeronikaTa/meetstrangers.git
+[submodule "max_in_sequence"]
+	path = max_in_sequence
+	url = https://github.com/VeronikaTa/max_in_sequence.git
+[submodule "max"]
+	path = max
+	url = https://github.com/VeronikaTa/max.git
+[submodule "local_maxima_remove"]
+	path = local_maxima_remove
+	url = https://github.com/VeronikaTa/local_maxima_remove.git
+[submodule "go_dutch"]
+	path = go_dutch
+	url = https://github.com/VeronikaTa/go_dutch.git
+[submodule "decremental-carousel_with_limit"]
+	path = decremental-carousel_with_limit
+	url = https://github.com/VeronikaTa/decremental-carousel_with_limit.git
+[submodule "cycle_swap"]
+	path = cycle_swap
+	url = https://github.com/VeronikaTa/cycle_swap.git
+[submodule "average"]
+	path = average
+	url = https://github.com/VeronikaTa/average.git
+[submodule "gradually_decreasing_carousel"]
+	path = gradually_decreasing_carousel
+	url = https://github.com/VeronikaTa/gradually_decreasing_carousel.git
+[submodule "halving_carousel"]
+	path = halving_carousel
+	url = https://github.com/VeronikaTa/halving_carousel.git
+[submodule "triangle"]
+	path = triangle
+	url = https://github.com/VeronikaTa/triangle.git
+[submodule "line_intersection"]
+	path = line_intersection
+	url = https://github.com/VeronikaTa/line_intersection.git
+[submodule "figures"]
+	path = figures
+	url = https://github.com/VeronikaTa/figures.git
+[submodule "decrementing_carousel"]
+	path = decrementing_carousel
+	url = https://github.com/VeronikaTa/decrementing_carousel.git
+[submodule "segments"]
+	path = segments
+	url = https://github.com/VeronikaTa/segments.git
+[submodule "task_carousel"]
+	path = task_carousel
+	url = https://github.com/VeronikaTa/task_carousel.git
+[submodule "arithmetic_expressions"]
+	path = arithmetic_expressions
+	url = https://github.com/VeronikaTa/arithmetic_expressions.git
+[submodule "catch_em_all"]
+	path = catch_em_all
+	url = https://github.com/VeronikaTa/catch_em_all.git
+[submodule "requirements"]
+	path = requirements
+	url = https://github.com/VeronikaTa/requirements.git
+[submodule "validation_epam_email"]
+	path = validation_epam_email
+	url = https://github.com/VeronikaTa/validation_epam_email.git
+[submodule "validationsd_color_code"]
+	path = validationsd_color_code
+	url = https://github.com/VeronikaTa/validationsd_color_code.git
+[submodule "words"]
+	path = words
+	url = https://github.com/VeronikaTa/words.git
+[submodule "beware_of_dog"]
+	path = beware_of_dog
+	url = https://github.com/VeronikaTa/beware_of_dog.git
+[submodule "sprint-planning"]
+	path = sprint-planning
+	url = https://github.com/VeronikaTa/sprint-planning.git
+[submodule "battleship8x8"]
+	path = battleship8x8
+	url = https://github.com/VeronikaTa/battleship8x8.git
+[submodule "optional_max"]
+	path = optional_max
+	url = https://github.com/VeronikaTa/optional_max.git
+[submodule "Compass"]
+	path = Compass
+	url = https://github.com/VeronikaTa/Compass.git
+[submodule "spiral"]
+	path = spiral
+	url = https://gitlab.com/NNVVVV/spiral.git
